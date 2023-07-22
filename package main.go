@@ -11,6 +11,7 @@ func main() {
 	fmt.Println(str)
 	some_int := 12
 	fmt.Println(some_int)
+	fmt.Println("Очередной текст")
 }
 
 //Какой-то однострочный комментарий
